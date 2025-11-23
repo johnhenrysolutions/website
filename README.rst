@@ -5,8 +5,9 @@ John Henry Solutions
 
 |
 
-This site was generated with `shpinx <https://www.sphinx-doc.org/en/master/tutorial/getting-started.html>`_.
+This site uses `shpinx <https://www.sphinx-doc.org/en/master/tutorial/getting-started.html>`_.
 
+Start developing with following commands:
 .. code:: bash
 
    python -m venv .venv
