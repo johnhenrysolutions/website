@@ -8,8 +8,8 @@ John Henry Solutions
 
 *- Solutions that matter -*
 
-You will find a set of solutions in area `distros <https://github.com/johnhenrysolutions/distros>`_.
-Individual packages are hosted in area `packages <https://github.com/johnhenrysolutions/packages>`_.
+| You will find a set of solutions here in `distros <https://github.com/johnhenrysolutions/distros>`_.
+| Individual packages are hosted in area `packages <https://github.com/johnhenrysolutions/packages>`_.
 
 Solutions
 ---------
